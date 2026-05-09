@@ -19,7 +19,7 @@
     },
     {
         year: "2022 – 2023",
-        degree: "Class XII — Science",
+        degree: "Class XII — PCM",
         school: "Kendriya Vidyalaya, Mahoba",
         score: "83%"
     },
