@@ -94,7 +94,6 @@
     ];
 
     const PROJECTS_DATA = [
-    // ➕ Add more projects here anytime — cards auto-generate!
     {
         name: "Academic Result Portal",
         desc: "A full-stack web application for managing student results. Automated data extraction from PDFs, stored data in MySQL, and implemented Excel export functionality.",
@@ -106,8 +105,14 @@
         desc: "A real-time chat system with user and admin interfaces, featuring WebSocket-based communication for instant messaging.",
         stack: ["Node.js", "Express", "Socket.io"],
         link: "https://github.com/AkkySharma525/chatbox-project"
+    },
+    {
+        name: "Bank Management System",
+        desc: "A console-based Bank Management System built in C++ covering all core OOP concepts including Inheritance, Polymorphism, Encapsulation, Abstraction, Friend Functions and Operator Overloading.",
+        stack: ["C++", "OOP"],
+        link: "https://github.com/AkkySharma525/bank-management-system-cpp"
     }
-    ];
+];
 
     /* =============================================
     TYPING ANIMATION
