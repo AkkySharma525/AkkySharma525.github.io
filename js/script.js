@@ -108,7 +108,7 @@
     },
     {
         name: "Bank Management System",
-        desc: "A console-based Bank Management System built in C++ covering all core OOP concepts including Inheritance, Polymorphism, Encapsulation, Abstraction, Friend Functions and Operator Overloading.",
+        desc: "A console-based Bank Management System built in C++ covering all core OOP concepts.",
         stack: ["C++", "OOP"],
         link: "https://github.com/AkkySharma525/bank-management-system-cpp"
     }
