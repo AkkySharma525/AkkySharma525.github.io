@@ -8,7 +8,7 @@
     ✏️  EDITABLE DATA — Update these anytime!
     ============================================= */
 
-    const RESUME_LINK = "https://drive.google.com/file/d/1msu7EOjOTfH0g9kaeL1tcPnBu7IRvzoI/view?usp=drive_link"; // GOOGLE_DRIVE_RESUME_LINK
+    const RESUME_LINK = "https://drive.google.com/file/d/10Fz6nEW2dV6VZ2r5vjse-RE52UwXDEgs/view?usp=sharing"; // GOOGLE_DRIVE_RESUME_LINK
 
     const EDUCATION_DATA = [
     {
@@ -110,7 +110,7 @@
         name: "Bank Management System",
         desc: "A console-based Bank Management System built in C++ covering all core OOP concepts.",
         stack: ["C++", "OOP"],
-        link: "https://github.com/AkkySharma525/bank-management-system-cpp"
+        link: "https://github.com/AkkySharma525/bank-management-system"
     }
 ];
 
