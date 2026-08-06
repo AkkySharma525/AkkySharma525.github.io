@@ -4,9 +4,6 @@
     just update the DATA objects below.
     ============================================= */
 
-    /* =============================================
-    ✏️  EDITABLE DATA — Update these anytime!
-    ============================================= */
 
     const RESUME_LINK = "https://drive.google.com/file/d/1yZdBMuJkMrwZ6XBIQ84GHQ3ujU9qfomr/view?usp=sharing"; // GOOGLE_DRIVE_RESUME_LINK
 
