@@ -8,7 +8,7 @@
     ✏️  EDITABLE DATA — Update these anytime!
     ============================================= */
 
-    const RESUME_LINK = "https://drive.google.com/file/d/10Fz6nEW2dV6VZ2r5vjse-RE52UwXDEgs/view?usp=sharing"; // GOOGLE_DRIVE_RESUME_LINK
+    const RESUME_LINK = "https://drive.google.com/file/d/1QWfkcYz2cBAnpqjA5Oal_TjRhKb-7Wiv/view?usp=sharing"; // GOOGLE_DRIVE_RESUME_LINK
 
     const EDUCATION_DATA = [
     {
